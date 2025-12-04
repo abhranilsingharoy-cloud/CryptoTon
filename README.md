@@ -54,7 +54,7 @@ Installation
 
 1. Clone the repository
 
-git clone [https://github.com/yourusername/cryptoton.git](https://github.com/abhranilsingharoy-cloud/CryptoTon)
+git clone [https://github.com/abhranilsingharoy-cloud/CryptoTon](https://github.com/abhranilsingharoy-cloud/CryptoTon)
 cd cryptoton
 
 
